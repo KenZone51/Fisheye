@@ -1,0 +1,69 @@
+error for the image 1 : 0.0984379
+error for the image 2 : 0.163552
+error for the image 3 : 0.454503
+error for the image 4 : 0.487141
+error for the image 5 : 0.134796
+error for the image 6 : 0.158141
+error for the image 7 : 0.147669
+error for the image 8 : 0.223361
+error for the image 9 : 0.241312
+error for the image 10 : 0.129298
+error for the image 11 : 0.167362
+error for the image 12 : 0.126306
+error for the image 13 : 0.081781
+error for the image 14 : 0.443722
+error for the image 15 : 0.240913
+error for the image 16 : 0.0867231
+error for the image 17 : 0.196423
+error for the image 18 : 0.432217
+error for the image 19 : 0.123456
+error for the image 20 : 0.0954966
+error for the image 21 : 0.179531
+error for the image 22 : 0.0880544
+error for the image 23 : 0.601316
+error for the image 24 : 0.659764
+error for the image 25 : 0.201609
+error for the image 26 : 0.096534
+error for the image 27 : 0.349564
+error for the image 28 : 0.363985
+error for the image 29 : 0.670888
+error for the image 30 : 0.459816
+error for the image 31 : 0.458526
+error for the image 32 : 0.0876706
+error for the image 33 : 0.116095
+error for the image 34 : 0.162043
+error for the image 35 : 0.548965
+error for the image 36 : 0.181895
+error for the image 37 : 0.340367
+error for the image 38 : 0.0907984
+error for the image 39 : 0.349714
+error for the image 40 : 0.528052
+error for the image 41 : 0.398563
+error for the image 42 : 0.589343
+error for the image 43 : 0.276669
+error for the image 44 : 0.0948315
+error for the image 45 : 0.106489
+error for the image 46 : 0.550214
+error for the image 47 : 0.0995409
+error for the image 48 : 0.138865
+error for the image 49 : 0.090504
+error for the image 50 : 0.571881
+error for the image 51 : 0.343789
+error for the image 52 : 0.373478
+error for the image 53 : 0.69305
+error for the image 54 : 0.636807
+error for the image 55 : 0.261004
+error for the image 56 : 0.154724
+error for the image 57 : 0.121341
+error for the image 58 : 0.158839
+error for the image 59 : 0.283054
+error for the image 60 : 0.480688
+
+Total error for the images : 0.286525
+
+
+Intrinsic Matrix : [164.8508765011963, 0, 239.5;
+ 0, 165.1687927442833, 239.5;
+ 0, 0, 1]
+
+Distorsion Coefficient : [-0.085204, 0.119815, -0.079293, 0.0155262]
