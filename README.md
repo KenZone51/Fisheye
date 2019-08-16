@@ -1,2 +1,2 @@
 # Fisheye
-OpenCV code for undistorsion or remapping fisheye images
+OpenCV C++ code to undistort or remap fisheye images
