@@ -2,6 +2,10 @@
 
 Camera calibration is a process used to estimates the parameters of the lens and the sensor of a camera. This is a usefull process to correct the distorsion of a lens, to measure the size of an object in world units or to determine the location of the camera according to the image. Camera parameters include intrinsics, extrinsics, and distortion coefficients.
 
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/54168090/63224567-9f4a2f00-c1f8-11e9-8678-221d9f1110e5.png">
+</p>
+
 The intrinsics parameters are specifics for one cameras. They include :
 
   - f : the focal length of the lens.
@@ -17,3 +21,5 @@ The extrinsics parameters which may vary according to the position of the camera
 To estimate the camera parameters, you need to have 3-D world points and their corresponding 2-D image points.
 
 # How to use this code
+
+First print a chessboard pattern. In my case, I used a 
